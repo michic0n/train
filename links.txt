@@ -5,3 +5,9 @@
 3.  http://schryer.github.io/python_course_material/python/python_10.html
 
 4.  the origin of the czifile.py code:  http://www.lfd.uci.edu/~gohlke/
+
+
+Download BioFormat
+Download *.jar
+conda install -c anaconda javabridge=1.0.14
+conda install --channel https://conda.anaconda.org/goodman python-bioformats
